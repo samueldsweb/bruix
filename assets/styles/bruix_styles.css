@@ -479,7 +479,10 @@ body.light .hero-center-section .left-text{
 	.slide-buttons li a::before {
 		font-size: 50px;
 		font-weight: 700;
-	}	
+	}
+	.flotante-instagram {
+		right: 15px!important;
+	}
 }
 
 /* Nuevos CSS */
